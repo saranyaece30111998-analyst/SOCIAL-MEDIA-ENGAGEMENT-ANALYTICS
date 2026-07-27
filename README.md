@@ -1,6 +1,4 @@
-Here’s a polished **README.md** draft for your GitHub repository **SOCIAL-MEDIA-ENGAGEMENT-ANALYTICS**. It’s structured, professional, and interview-ready, with clear sections for stakeholders and recruiters:
 
-```markdown
 # 📊 Social Media Engagement Analytics
 
 ## Overview
