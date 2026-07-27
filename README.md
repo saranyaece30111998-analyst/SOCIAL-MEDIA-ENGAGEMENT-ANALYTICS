@@ -65,10 +65,8 @@ SOCIAL-MEDIA-ENGAGEMENT-ANALYTICS/
 ---
 
 ## 📊 POWER BI Dashboard
-- Engagement trends over time
-- Top 10 posts by reach
-- Audience demographics breakdown
-- KPI summary: CTR, engagement rate, follower growth
+-<img width="1162" height="652" alt="POWER BI DASHBOARD" src="https://github.com/user-attachments/assets/d2f0cb8c-fa13-4b2e-9213-24b054b079c6" />
+
 
 ---
 
