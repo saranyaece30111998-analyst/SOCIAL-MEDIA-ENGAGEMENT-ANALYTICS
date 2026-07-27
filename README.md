@@ -64,7 +64,7 @@ SOCIAL-MEDIA-ENGAGEMENT-ANALYTICS/
 
 ---
 
-## 📊 Sample Dashboard
+## 📊 POWER BI Dashboard
 - Engagement trends over time
 - Top 10 posts by reach
 - Audience demographics breakdown
