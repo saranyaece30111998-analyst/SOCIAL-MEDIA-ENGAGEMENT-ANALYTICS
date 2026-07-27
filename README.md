@@ -91,8 +91,3 @@ Skilled in **Power BI, SQL, Python, Excel**
 Focused on **professional dashboards, multilingual documentation, and actionable insights**
 
 ---
-```
-
-This README highlights your **data analyst skills, structured workflow, and professional reporting style**.  
-
-👉 Do you want me to also create a **shorter recruiter-friendly version** (2–3 sections only) for quick portfolio browsing, or keep this detailed one as your main README?
