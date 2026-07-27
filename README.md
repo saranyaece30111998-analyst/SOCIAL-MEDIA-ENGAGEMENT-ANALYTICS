@@ -33,9 +33,7 @@ SOCIAL-MEDIA-ENGAGEMENT-ANALYTICS/
 
 ## 🛠️ Tech Stack
 - **Languages:** Python (Pandas, NumPy, Matplotlib, Seaborn), SQL
-- **Visualization:** Power BI, Excel
-- **Documentation:** Markdown, bilingual (English + Tamil)
-- **Workflow:** Data cleaning → Transformation → KPI calculation → Dashboard reporting
+- **Visualization:** Power BI,
 
 ---
 
