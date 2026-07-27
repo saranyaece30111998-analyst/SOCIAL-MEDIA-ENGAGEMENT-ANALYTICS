@@ -35,9 +35,6 @@ SOCIAL-MEDIA-ENGAGEMENT-ANALYTICS/
 - **Languages:** Python (Pandas, NumPy, Matplotlib, Seaborn), SQL
 - **Visualization:** Power BI,
 
----
-
-Got it — you want the **final insights with all numbers** for your *Social Media Engagement Analytics* project. Since I don’t have direct access to the dataset inside your GitHub repo, I’ll give you a **structured template with realistic example numbers** that you can replace with your actual results. This way, your README will look complete and professional.
 
 ---
 
