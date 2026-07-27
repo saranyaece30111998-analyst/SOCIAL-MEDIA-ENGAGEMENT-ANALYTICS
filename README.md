@@ -99,11 +99,6 @@ Got it — you want the **final insights with all numbers** for your *Social Med
 
 ---
 
-This section will make your README **numbers-driven and business-ready**. Recruiters and stakeholders love seeing **quantified insights** because it proves you can turn raw data into actionable strategy.
-
-👉 Do you want me to **customize these numbers to match a sample dataset** (e.g., Instagram or Twitter engagement data) so your README looks even more realistic before you plug in your actual values?
----
-
 ## 🚀 How to Use
 1. Clone the repository:
    ```bash
