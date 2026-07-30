@@ -10,7 +10,7 @@ The goal is to help businesses understand audience behavior, optimize content st
 
 ## ✨ Features
 - Data preprocessing and cleaning for raw social media datasets
-- Exploratory Data Analysis (EDA) with Python (Pandas, NumPy, Matplotlib, Seaborn)============================
+- Exploratory Data Analysis (EDA) with Python (Pandas, NumPy, Matplotlib, Seaborn)
 - Engagement metrics calculation (likes, shares, comments, reach, impressions)
 - KPI dashboards in **Power BI** for executives and marketing teams
 - Trend analysis: peak posting times, top-performing content, audience demographics
