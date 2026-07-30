@@ -14,7 +14,7 @@ The goal is to help businesses understand audience behavior, optimize content st
 - Engagement metrics calculation (likes, shares, comments, reach, impressions)
 - KPI dashboards in **Power BI** for executives and marketing teams
 - Trend analysis: peak posting times, top-performing content, audience demographics
-- Exportable reports with clear naming conventions and professional formatting[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[
+- Exportable reports with clear naming conventions and professional formatting
 
 ---
 
