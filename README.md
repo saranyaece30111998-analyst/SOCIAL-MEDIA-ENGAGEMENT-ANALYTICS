@@ -4,7 +4,7 @@
 ## Overview
 This project analyzes social media engagement metrics to uncover actionable insights.  
 It demonstrates skills in **data cleaning, transformation, visualization, and reporting** using tools like **Python, SQL, and Power BI**.  
-The goal is to help businesses understand audience behavior, optimize content strategy, and improve overall engagement.]]]]]]]]]]]]]]]
+The goal is to help businesses understand audience behavior, optimize content strategy, and improve overall engagement.]]]]]]]]]]]]
 
 ---
 
